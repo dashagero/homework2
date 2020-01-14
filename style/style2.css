@@ -1,13 +1,13 @@
 #mainheader{
-    width: 1100px;
-    height: 50 px;
+    width: 90vw;
+    height: 5vh;
     text-align: center;
-    margin: 20 px;
+    margin-left: 5vw;
     background-color: royalblue;
 }
 #firstheader {
-    height: 60px;
-    width: 540px;
+    height: 15vh;
+    width: 44vw;
     background-color: violet;
     display: inline-block;
     margin-bottom: 30px;
@@ -15,43 +15,43 @@
     margin-top: 20px;
 }
 #secondheader{ 
-    height: 60px;
-    width: 540px;
+    height: 15vh;
+    width: 45vw;
     background-color: violet;
 display: inline-block; 
 margin-bottom: 30px;
-margin-left: 8px;
+margin-left: 6px;
 margin-top: 20px;
 }
 #wrapper{
-width: 1100px;
+width: 100vw;
+height: 100vh;
 text-align: center;
 margin: auto;
 }
 #menu{
-    width: 1100px;
-    height: 290px;
+    width: 90vw;
+    height: 30vh;
     background-color: gray;
+    text-align: center;
+    margin-left: 5vw;
 }
 .content1{
     display: inline-block;
-    width: 360px;
-    height: 170px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-   margin-right: 4px;
-   margin-right: 4px;
+    width: 28vw;
+    height: 20vh;
+    margin: 23px;
    padding-bottom: 10px;
   background-color: greenyellow;
 }
 
 li{
 display : inline-block;
- width : 265px;
-height: 190px;
+ width : 21vw;
+height: 13vh;
 margin-top: 10px;
     margin-bottom: 25px;
-   margin-right: 7px;
+  margin: 15px;
 background: #E76D13;
 text-align: center;
 padding-top: 10px;

@@ -8,12 +8,12 @@
 #first{
     width: 400px;
     height: 400px;
-    background: rgba(0, 170, 238, 0.3);
+    background: rgb(216, 25, 25);
     position: absolute;
 }
 #second{
     height: 400px;
-    background-color: brown;
+    background-color: rgb(36, 226, 77);
     position: relative;
     left: 300px; 
     top: 300px; 
@@ -21,7 +21,7 @@
 }
 #third{
     height: 400px;
-    background: rgba(170, 60, 70, 0.3);
+    background: rgb(29, 47, 209);
     position: absolute;
     left: 150px; 
     top: 150px; 

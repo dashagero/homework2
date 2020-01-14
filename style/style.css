@@ -1,29 +1,30 @@
 table {
     width: 100%;
-border-style: none;
+    height: 100vh;;
+    border-style: none;
 border-spacing: 30px;
 border: 15px;
 table-layout: fixed;
   }
   #color1{
       background-color: #FA8072;
-      height: 15px;
+      height: 10%;
   }
   #color2{
       background-color: #DB7093;
-      height: 100px;
+      height: 15%;
   }
   #color3{
       background-color:#6A5ACD;
-      height: 220px;
+      height: 30%;
   }
   #color4{
       background-color:#00CED1;
-      height: 240px;
+      height: 20%;
   }
   #color5{
       background-color: #008B8B;
-      height: 80px;
+      height: 15%;
   }
 tr{
     text-align: center;
