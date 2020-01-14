@@ -1,0 +1,29 @@
+#wrapper{
+    width: 700px;
+   height: 700px;
+   border: 4px double black;
+    text-align: center;
+    
+}
+#first{
+    width: 400px;
+    height: 400px;
+    background: rgba(0, 170, 238, 0.3);
+    position: absolute;
+}
+#second{
+    height: 400px;
+    background-color: brown;
+    position: relative;
+    left: 300px; 
+    top: 300px; 
+    width: 400px; 
+}
+#third{
+    height: 400px;
+    background: rgba(170, 60, 70, 0.3);
+    position: absolute;
+    left: 150px; 
+    top: 150px; 
+    width: 400px; 
+}

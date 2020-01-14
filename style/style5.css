@@ -1,0 +1,74 @@
+.wrapper{
+    width: 100%;
+    height: 1000px;  
+}
+.header{
+    width: 100%;
+    height: 10%;
+background: rgba(207, 243, 76, 0.3);
+position: fixed;
+
+  
+}
+.header:hover {
+    background-color:rgba(159, 67, 202, 0.3);
+}
+
+#header1{ 
+height: 80px;
+width: 100%;
+  margin-bottom: 10px;
+  position: fixed;
+}
+#block{
+height: 80% ;
+width: 150px;
+background-image: url(../images/7E62E8E886352196.jpg);
+position: absolute;
+background-size: contain;
+margin: 0;            
+   top: 50%;       
+   left: 5%;                 
+   transform: translate(0, -50%) }
+#block2{
+    height: 80% ;
+    width: 150px;
+    background-image: url(../images/tild3261-6661-4938-a438-373162316134__1.jpg);
+    position: absolute;
+    background-size: contain;
+    margin: 0;
+    display: inline-block;
+       position: absolute;               
+       top: 50%;   
+       right: 5%;                     
+       transform: translate(0, -50%) }
+.contant{
+margin-right: 15%;
+margin-left: 15%;
+column-count: 2;
+margin-top: 8%;
+    height: 300px;
+    border-left: 14px double black; 
+    border-right: 14px double black; 
+    background: url(../images/depositphotos_52523357-stock-photo-white-wood-background.jpg);
+    padding: 10px; 
+    text-align: justify;
+font-family: 'Times New Roman', Times, serif;
+font-size: 19px;
+position: relative;
+}
+#footer{
+    width: 100%;
+    max-height: 15;
+    background-color:rgba(123, 208, 230, 0.1);
+    margin-top: 20px;
+    
+
+}
+
+#footer:hover
+{
+    background-color:rgb(123, 209, 230); 
+    font-size: 20px;
+}   
+

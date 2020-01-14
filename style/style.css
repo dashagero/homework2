@@ -1,0 +1,31 @@
+table {
+    width: 100%;
+border-style: none;
+border-spacing: 30px;
+border: 15px;
+table-layout: fixed;
+  }
+  #color1{
+      background-color: #FA8072;
+      height: 15px;
+  }
+  #color2{
+      background-color: #DB7093;
+      height: 100px;
+  }
+  #color3{
+      background-color:#6A5ACD;
+      height: 220px;
+  }
+  #color4{
+      background-color:#00CED1;
+      height: 240px;
+  }
+  #color5{
+      background-color: #008B8B;
+      height: 80px;
+  }
+tr{
+    text-align: center;
+border-color: white;
+}
