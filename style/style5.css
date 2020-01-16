@@ -30,12 +30,7 @@ margin: 0;
    top: 50%;       
    left: 5%;                 
    transform: translate(0, -50%) 
-   border-image: 
-   linear-gradient(
-      to bottom, 
-      green, 
-      rgba(0, 0, 0, 0)
-   ) 1 ;}
+}
 #block2{
     height: 80% ;
     width: 150px;
@@ -78,4 +73,6 @@ position: relative;
     background-color:rgb(123, 209, 230); 
     font-size: 20px;
 }   
-
+p {
+    margin: 0 auto;
+}

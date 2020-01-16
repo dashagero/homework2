@@ -27,7 +27,6 @@ margin-top: 20px;
 width: 100vw;
 height: 100vh;
 text-align: center;
-margin: auto;
 }
 #menu{
     width: 90vw;
@@ -48,7 +47,7 @@ margin: auto;
 li{
 display : inline-block;
  width : 21vw;
-height: 13vh;
+height: 12vh;
 margin-top: 10px;
     margin-bottom: 25px;
   margin: 15px;
